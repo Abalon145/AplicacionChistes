@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AplicacionChistes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Url_Api_Base">https://v2.jokeapi.dev/joke/</string>
+</resources>
